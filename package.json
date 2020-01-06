@@ -4,7 +4,8 @@
   "description": "following the tutorial at https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
