@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OliverForral/my-awesome-greeter/issues"
   },
-  "homepage": "https://github.com/OliverForral/my-awesome-greeter#readme"
+  "homepage": "https://github.com/OliverForral/my-awesome-greeter#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
 }
