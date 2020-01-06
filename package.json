@@ -1,0 +1,20 @@
+{
+  "name": "my-awesome-greeter",
+  "version": "1.0.0",
+  "description": "following the tutorial at https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverForral/my-awesome-greeter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverForral/my-awesome-greeter/issues"
+  },
+  "homepage": "https://github.com/OliverForral/my-awesome-greeter#readme"
+}
