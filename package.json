@@ -2,7 +2,7 @@
   "name": "my-awesome-greeter",
   "version": "1.0.0",
   "description": "following the tutorial at https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/OliverForral/my-awesome-greeter#readme",
   "devDependencies": {
     "typescript": "^3.7.4"
-  }
+  },
+  "types": "./lib/index.d.ts"
 }
